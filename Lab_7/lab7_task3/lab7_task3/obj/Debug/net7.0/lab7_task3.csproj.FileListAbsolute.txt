@@ -1,0 +1,15 @@
+/Users/palppv/Projects/lab7_task3/lab7_task3/bin/Debug/net7.0/lab7_task3
+/Users/palppv/Projects/lab7_task3/lab7_task3/bin/Debug/net7.0/lab7_task3.deps.json
+/Users/palppv/Projects/lab7_task3/lab7_task3/bin/Debug/net7.0/lab7_task3.runtimeconfig.json
+/Users/palppv/Projects/lab7_task3/lab7_task3/bin/Debug/net7.0/lab7_task3.dll
+/Users/palppv/Projects/lab7_task3/lab7_task3/bin/Debug/net7.0/lab7_task3.pdb
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/lab7_task3.csproj.AssemblyReference.cache
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/lab7_task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/lab7_task3.AssemblyInfoInputs.cache
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/lab7_task3.AssemblyInfo.cs
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/lab7_task3.csproj.CoreCompileInputs.cache
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/lab7_task3.dll
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/refint/lab7_task3.dll
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/lab7_task3.pdb
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/lab7_task3.genruntimeconfig.cache
+/Users/palppv/Projects/lab7_task3/lab7_task3/obj/Debug/net7.0/ref/lab7_task3.dll
