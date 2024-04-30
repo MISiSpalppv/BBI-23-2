@@ -1,0 +1,15 @@
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/lab8_popov.csproj.AssemblyReference.cache
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/lab8_popov.GeneratedMSBuildEditorConfig.editorconfig
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/lab8_popov.AssemblyInfoInputs.cache
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/lab8_popov.AssemblyInfo.cs
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/lab8_popov.csproj.CoreCompileInputs.cache
+/Users/palppv/Projects/lab8_popov/lab8_popov/bin/Debug/net7.0/lab8_popov
+/Users/palppv/Projects/lab8_popov/lab8_popov/bin/Debug/net7.0/lab8_popov.deps.json
+/Users/palppv/Projects/lab8_popov/lab8_popov/bin/Debug/net7.0/lab8_popov.runtimeconfig.json
+/Users/palppv/Projects/lab8_popov/lab8_popov/bin/Debug/net7.0/lab8_popov.dll
+/Users/palppv/Projects/lab8_popov/lab8_popov/bin/Debug/net7.0/lab8_popov.pdb
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/lab8_popov.dll
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/refint/lab8_popov.dll
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/lab8_popov.pdb
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/lab8_popov.genruntimeconfig.cache
+/Users/palppv/Projects/lab8_popov/lab8_popov/obj/Debug/net7.0/ref/lab8_popov.dll
