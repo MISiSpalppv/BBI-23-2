@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfChart xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Chart>
+    <Songs>
+      <ChartSong>
+        <Year>1967</Year>
+        <Artist>Aretha Franklin</Artist>
+        <Title>Respect</Title>
+        <GenreSong>Soul</GenreSong>
+        <NumberOfListeners>110000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>1965</Year>
+        <Artist>Bob Dylan</Artist>
+        <Title>Like a Rolling Stone</Title>
+        <GenreSong>Rock</GenreSong>
+        <NumberOfListeners>130000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>1965</Year>
+        <Artist>Bob Dylan</Artist>
+        <Title>Like a Rolling Stone</Title>
+        <GenreSong>Rock</GenreSong>
+        <NumberOfListeners>130000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>2002</Year>
+        <Artist>Eminem</Artist>
+        <Title>Lose Yourself</Title>
+        <GenreSong>HipHop</GenreSong>
+        <NumberOfListeners>250000000</NumberOfListeners>
+      </ChartSong>
+    </Songs>
+    <Name>RussiaChart</Name>
+  </Chart>
+  <Chart>
+    <Songs>
+      <ChartSong>
+        <Year>2013</Year>
+        <Artist>Lorde</Artist>
+        <Title>Royals</Title>
+        <GenreSong>Pop</GenreSong>
+        <NumberOfListeners>220000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>1965</Year>
+        <Artist>Bob Dylan</Artist>
+        <Title>Like a Rolling Stone</Title>
+        <GenreSong>Rock</GenreSong>
+        <NumberOfListeners>130000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>1965</Year>
+        <Artist>Bob Dylan</Artist>
+        <Title>Like a Rolling Stone</Title>
+        <GenreSong>Rock</GenreSong>
+        <NumberOfListeners>130000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>2002</Year>
+        <Artist>Eminem</Artist>
+        <Title>Lose Yourself</Title>
+        <GenreSong>HipHop</GenreSong>
+        <NumberOfListeners>250000000</NumberOfListeners>
+      </ChartSong>
+    </Songs>
+    <Name>AmericanChart</Name>
+  </Chart>
+  <Chart>
+    <Songs>
+      <ChartSong>
+        <Year>2019</Year>
+        <Artist>Lil Nas X</Artist>
+        <Title>Old Town Road</Title>
+        <GenreSong>Country</GenreSong>
+        <NumberOfListeners>350000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>1965</Year>
+        <Artist>Bob Dylan</Artist>
+        <Title>Like a Rolling Stone</Title>
+        <GenreSong>Rock</GenreSong>
+        <NumberOfListeners>130000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>1965</Year>
+        <Artist>Bob Dylan</Artist>
+        <Title>Like a Rolling Stone</Title>
+        <GenreSong>Rock</GenreSong>
+        <NumberOfListeners>130000000</NumberOfListeners>
+      </ChartSong>
+      <ChartSong>
+        <Year>2002</Year>
+        <Artist>Eminem</Artist>
+        <Title>Lose Yourself</Title>
+        <GenreSong>HipHop</GenreSong>
+        <NumberOfListeners>250000000</NumberOfListeners>
+      </ChartSong>
+    </Songs>
+    <Name>WorldChart</Name>
+  </Chart>
+</ArrayOfChart>
